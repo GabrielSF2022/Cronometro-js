@@ -5,7 +5,9 @@
 
 ![Document - Google Chrome 2022-04-27 21-21-44](https://user-images.githubusercontent.com/97768716/165754591-b6eaa812-9c87-49cc-a652-550b84e4cf58.gif)
 
-  
+  <h2 align="center">
+  <a href="https://gabrielsf2022.github.io/CRONOMETRO-JS/" target="_blank"> Veja o site </a>
+</h2>
 
 
 <h2 align="center"> FERRAMENTAS USADAS </h2>
