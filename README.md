@@ -2,8 +2,9 @@
 <h1 align="center">CRONOMETRO-JS!!!!
 
 
+![CRONOMETRO - Google Chrome 2022-06-07 15-20-37 (1)](https://user-images.githubusercontent.com/97768716/172455000-c953f190-bf50-48d6-b361-a19e7aea60fa.gif)
+![Design_sem_nome__4_-removebg-preview (2)](https://user-images.githubusercontent.com/97768716/172455495-d9cf6744-f228-4d4a-916c-63c6cbbad292.png)
 
-![Document - Google Chrome 2022-04-27 21-21-44](https://user-images.githubusercontent.com/97768716/165754591-b6eaa812-9c87-49cc-a652-550b84e4cf58.gif)
 
   <h2 align="center">
   <a href="https://gabrielsf2022.github.io/CRONOMETRO-JS/" target="_blank"> Veja o site </a>
