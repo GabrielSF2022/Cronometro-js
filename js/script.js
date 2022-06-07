@@ -3,6 +3,15 @@ var min = 0;
 var hours = 0;
 var interval;
 
+let start = document.getElementById('play');
+start.addEventListener('click',iniciar);
+
+let stop = document.getElementById('stop');
+stop.addEventListener('click',parar);
+
+let restart = document.getElementById('restart');
+restart.addEventListener('click',limpar)
+
 
 function watch() {
     sec++;
@@ -45,6 +54,8 @@ function limpar() {
 
   document.getElementById("watch").innerText = "00:00:00";
 }
+
+
 
 
 
